@@ -1,4 +1,3 @@
-set number
 set tabstop=4
 set shiftwidth=4
 set expandtab
@@ -6,3 +5,9 @@ set autoindent
 set hlsearch
 set ignorecase
 set smartcase
+set relativenumber
+set incsearch
+set mouse=a
+set scrolloff=5
+set wildmenu
+set backspace=indent,eol,start
